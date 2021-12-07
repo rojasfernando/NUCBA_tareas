@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: opx;
+}
+ 
+body {
+    margin-top: 10px;
+    background-color: khaki;
+    background-image: url("");
+    <!...poner estos codigos cuando lo llamamos desde html con una imagen...>
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    <!...poner estos codigos cuando lo llamamos desde html con una imagen...>
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
